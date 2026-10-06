@@ -1,0 +1,15 @@
+.container_01 {
+    overflow: hidden;
+}
+
+.item_01 {
+    margin: 0 3px;
+    padding: 10px;
+    border:1px solid black;
+    float: left;
+}
+
+.margin_02{
+    margin: 0 auto;
+    width: 1000px;
+}
